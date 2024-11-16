@@ -1,11 +1,23 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 a
 b
 c
 a
 
+
 aa
 ádasdsa
 ádasds
+=======
+=======
+a
+=======
+a
+
+
+
+ádasds
+
+
+ádadsad
