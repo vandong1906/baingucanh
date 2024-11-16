@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 a
 b
@@ -8,4 +9,9 @@ a
 
 =======
 a
->>>>>>> parent of 9bcfd9c (B)
+=======
+a
+
+
+
+ádasds
